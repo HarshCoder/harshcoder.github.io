@@ -1,0 +1,68 @@
+body{
+	background-color: #CEF6F5;
+	font-family: Times New Roman;
+}
+
+#container{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#header{
+	background-color: #A9F5F2;
+	text-align: center;
+	font-family: French Script MT, Ariel;
+	font-size:20;
+}
+
+#pic{
+	width: 260px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#desc{
+	font-family: Times New Roman;
+}
+
+#content{
+	padding: 10px;
+}
+
+#skills{
+	width:480px;
+	float: left;
+}
+
+h3{
+	background-color:#A9F5F2;
+}
+
+h4{
+	background-color:gray;
+	color:white;
+	font-family: helvetica;
+	font-size:12;
+}
+
+#projects{
+	width:480px;
+	float: right;
+}
+
+#edu{
+	clear:both;
+}
+
+#contact{
+	clear:both;
+}
+
+#footer{
+	clear:both;
+	padding:10px;
+	background-color:#999999;
+	color:white;
+	text-align:right;
+}
