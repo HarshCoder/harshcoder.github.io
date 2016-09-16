@@ -30,10 +30,6 @@ body{
 	padding: 10px;
 }
 
-#skills{
-	width:480px;
-	float: left;
-}
 
 h3{
 	background-color:#A9F5F2;
@@ -47,20 +43,19 @@ h4{
 }
 
 #projects{
-	width:480px;
-	float: right;
+	
 }
 
 #edu{
-	clear:both;
+	
 }
 
 #contact{
-	clear:both;
+	
 }
 
 #footer{
-	clear:both;
+	
 	padding:10px;
 	background-color:#999999;
 	color:white;
