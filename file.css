@@ -12,7 +12,7 @@ body{
 #header{
 	background-color: #A9F5F2;
 	text-align: center;
-	font-family: French Script MT, Ariel;
+	font-family: BankGothic Lt BT, French Script MT, Ariel;
 	font-size:20;
 }
 
@@ -24,10 +24,11 @@ body{
 
 #desc{
 	font-family: Times New Roman;
+	font-size: 20;
 }
 
 #content{
-	padding: 10px;
+	
 }
 
 
@@ -36,22 +37,22 @@ h3{
 }
 
 h4{
-	background-color:gray;
+	background-color:#5499c7;
 	color:white;
-	font-family: helvetica;
-	font-size:12;
+	font-family: Bradley Hand ITC, BankGothic Lt BT, helvetica;
+	font-size:15;
 }
 
 #projects{
-	
+	font-size:20;
 }
 
 #edu{
-	
+	font-size:20;
 }
 
 #contact{
-	
+	font-size:20;
 }
 
 #footer{
