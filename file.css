@@ -1,16 +1,15 @@
 body{
-	background-color: #f1948a;
+	background-color: #CEF6F5;
 	font-family: Times New Roman;
 }
 
 #container{
-	width:1000px;
 	margin-left:auto;
 	margin-right:auto;
 }
 
 #header{
-	background-color: #A9F5F2;
+	background-color: #95F3F2;
 	text-align: center;
 	font-family: BankGothic Lt BT, French Script MT, Ariel;
 	font-size:20;
@@ -33,7 +32,7 @@ body{
 
 
 h3{
-	background-color:#A9F5F2;
+	background-color:#77F5F1;
 }
 
 h4{
