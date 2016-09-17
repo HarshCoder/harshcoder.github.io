@@ -16,7 +16,7 @@ body{
 }
 
 #pic{
-	
+	width: 260px;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -24,6 +24,8 @@ body{
 #desc{
 	font-family: Times New Roman;
 	font-size: 20;
+	text-align: justify;
+	padding: 10px;
 }
 
 #content{
@@ -44,14 +46,17 @@ h4{
 
 #projects{
 	font-size:20;
+	padding: 10px;
 }
 
 #edu{
 	font-size:20;
+	padding: 10px;
 }
 
 #contact{
 	font-size:20;
+	padding: 10px;
 }
 
 #footer{
