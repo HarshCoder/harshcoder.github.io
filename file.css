@@ -26,6 +26,8 @@ body{
 	font-size: 20;
 	text-align: justify;
 	padding: 10px;
+	padding-left:20;
+	padding-right:20;
 }
 
 #content{
