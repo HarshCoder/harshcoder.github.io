@@ -1,70 +1,50 @@
-body{
-	background-color: #CEF6F5;
-	font-family: Times New Roman;
+html{
+	background: url(sunset.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Helvetica Neue', sans-serif;
 }
 
-#container{
-	margin-left:auto;
-	margin-right:auto;
-}
-
-#header{
-	background-color: #95F3F2;
+.container{
+	width: 400px;
+	height: 420px;
+	background: rgba(0,0,0,0.4);
+	padding: 40px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 80px;
 	text-align: center;
-	font-family: BankGothic Lt BT, French Script MT, Ariel;
-	font-size:20;
 }
 
-#pic{
-	width: 260px;
-	margin-left:auto;
-	margin-right:auto;
+.pic{
+	border-radius: 50%;
 }
 
-#desc{
-	font-family: Times New Roman;
-	font-size: 20;
-	text-align: justify;
-	padding: 10px;
-	padding-left:20;
-	padding-right:20;
+h1{
+	font-weight: 100;
+	letter-spacing:5;
+	font-size: 30px;
 }
 
-#content{
+p{
+	font-weight: 200;
+	letter-spacing:1;
+}
+
+.contacts{
+	font-size: 30px;
+	letter-spacing:5;
+}
+
+.contacts a{
+	color: white;
+}
+
+.footer{
+	color: white;
+	text-align: right;
 	
 }
-
-
-h3{
-	background-color:#77F5F1;
-}
-
-h4{
-	background-color:#5499c7;
-	color:white;
-	font-family: Bradley Hand ITC, BankGothic Lt BT, helvetica;
-	font-size:15;
-}
-
-#projects{
-	font-size:20;
-	padding: 10px;
-}
-
-#edu{
-	font-size:20;
-	padding: 10px;
-}
-
-#contact{
-	font-size:20;
-	padding: 10px;
-}
-
-#footer{
 	
-	padding:10px;
-	background-color:#999999;
-	color:white;
-	text-align:right;
-}
