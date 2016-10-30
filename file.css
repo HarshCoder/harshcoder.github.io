@@ -7,14 +7,42 @@ html{
 	font-family: 'Helvetica Neue', sans-serif;
 }
 
+
+
 .container{
 	width: 400px;
 	height: 420px;
 	background: rgba(0,0,0,0.4);
-	padding: 40px;
+	padding: 3%;
 	color: white;
-	margin: 0 auto;
-	margin-top: 80px;
+	float:left;
+	margin-top: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+
+.projects{
+	width: 200px;
+	height: 200px;
+	background: rgba(0,0,0,0.4);
+	padding: 1%;
+	color: white;
+	float: left;
+	margin-right: 5%;
+	margin-top: 15%;
+	text-align: center;
+}
+
+.skills{
+	width: 200px;
+	height: 200px;
+	background: rgba(0,0,0,0.4);
+	padding: 1%;
+	color: white;
+	float: left;
+	margin-right: 5%;
+	margin-left: 10.5%;
+	margin-top: 15%;
 	text-align: center;
 }
 
@@ -25,16 +53,29 @@ html{
 h1{
 	font-weight: 100;
 	letter-spacing:5;
-	font-size: 30px;
+	font-size: 175%;
+}
+
+h5{
+	font-size: 80%;
 }
 
 p{
 	font-weight: 200;
 	letter-spacing:1;
+	font-size: 100%
+}
+
+.proj_icon{
+	font-size: 200%;
+}
+
+.about_icon{
+	font-size: 200%;
 }
 
 .contacts{
-	font-size: 30px;
+	font-size: 200%;
 	letter-spacing:5;
 }
 
