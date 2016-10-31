@@ -11,7 +11,7 @@ html{
 
 .container{
 	width: 30%;
-	height: 65%;
+	height: 420px;
 	background: rgba(0,0,0,0.4);
 	padding: 3%;
 	color: white;
@@ -23,7 +23,7 @@ html{
 
 .projects{
 	width: 15%;
-	height: 30%;
+	height: 200px;
 	background: rgba(0,0,0,0.4);
 	padding: 1%;
 	color: white;
@@ -35,7 +35,7 @@ html{
 
 .skills{
 	width: 15%;
-	height: 30%;
+	height: 200px;
 	background: rgba(0,0,0,0.4);
 	padding: 1%;
 	color: white;
