@@ -10,8 +10,8 @@ html{
 
 
 .container{
-	width: 400px;
-	height: 420px;
+	width: 30%;
+	height: 65%;
 	background: rgba(0,0,0,0.4);
 	padding: 3%;
 	color: white;
@@ -22,8 +22,8 @@ html{
 }
 
 .projects{
-	width: 200px;
-	height: 200px;
+	width: 15%;
+	height: 30%;
 	background: rgba(0,0,0,0.4);
 	padding: 1%;
 	color: white;
@@ -34,8 +34,8 @@ html{
 }
 
 .skills{
-	width: 200px;
-	height: 200px;
+	width: 15%;
+	height: 30%;
 	background: rgba(0,0,0,0.4);
 	padding: 1%;
 	color: white;
