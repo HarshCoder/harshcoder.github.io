@@ -1,5 +1,5 @@
 html{
-	background: url(sunset.jpg) no-repeat center center fixed; 
+	background: url(sunset1.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -24,7 +24,7 @@ html{
 .projects{
 	width: 15%;
 	height: 200px;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.0);
 	padding: 1%;
 	color: white;
 	float: left;
@@ -36,7 +36,7 @@ html{
 .skills{
 	width: 15%;
 	height: 200px;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,0,0.0);
 	padding: 1%;
 	color: white;
 	float: left;
@@ -54,6 +54,11 @@ h1{
 	font-weight: 100;
 	letter-spacing:5;
 	font-size:175%;
+	color:white;
+}
+
+h3{
+	color:white;
 }
 
 h5{
@@ -68,12 +73,20 @@ p{
 
 .proj_icon{
 	padding: 5%;
-	font-size: 150%;
+	font-size: 550%;
+}
+
+.proj_icon a{
+	color: white;
 }
 
 .about_icon{
 	padding: 5%;
-	font-size: 150%;
+	font-size: 550%;
+}
+
+.about_icon a{
+	color: white;
 }
 
 .contacts{
