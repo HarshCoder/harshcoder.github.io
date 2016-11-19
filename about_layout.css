@@ -1,0 +1,56 @@
+html{
+	background: url(sunset1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+.aboutme{
+	width: 90%;
+	height: 420px;
+	background: rgba(255,255,255,0.2);
+	padding: 3%;
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 2%;
+}
+
+.skills{
+	width: 41%;
+	height: 420px;
+	background: rgba(255,255,255,0.2);
+	padding: 3%;
+	color: white;
+	float: left;
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 2%;
+}
+
+.hobbies{
+	width: 41%;
+	height: 420px;
+	background: rgba(255,255,255,0.2);
+	float: left;
+	padding: 3%;
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 2%;
+}
+
+.resume{
+	width: 90%;
+	height: 50px;
+	background: rgba(255,255,255,0.2);
+	padding: 3%;
+	color: white;
+	text-align: center;
+	margin-top: 5%;
+	float: left;
+	margin-left: 2%;
+	margin-bottom: 2%;
+}
