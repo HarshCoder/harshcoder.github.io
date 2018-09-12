@@ -7,43 +7,67 @@ html{
 	font-family: 'Helvetica Neue', sans-serif;
 }
 
+.about{
+	float: left;
+	width: 15%;
+	height: 22%;
+	margin-right: 5%;
+	margin-left: 7.5%;
+	margin-top: 3%;
+	text-align: center;
+	background: rgba(0,0,0,0.0);
+	padding:1%;
+	color: white;
+	
+}
+
+.about:hover{
+	background: rgba(0,0,0,0.5);
+}
+
+.skills{
+	float: left;
+	width: 15%;
+	height: 22%;
+	margin-right: 5%;
+	margin-top: 3%;
+	text-align: center;
+	background: rgba(0,0,0,0.0);
+	padding:1%;
+	color: white;
+}
+
+.skills:hover{
+	background: rgba(0,0,0,0.5);
+}
 
 
-.container{
-	width: 30%;
+.info{
+	width: 80%;
 	height: 420px;
-	background: rgba(0,0,0,0.4);
+	background: rgba(0,0,2,0.2);
 	padding: 3%;
 	color: white;
-	float:left;
+	float: left;
+	margin-left: 6%;
 	margin-top: 4.2%;
-	margin-right: 5%;
 	text-align: center;
 }
 
 .projects{
 	width: 15%;
-	height: 200px;
+	height: 22%;
 	background: rgba(0,0,0,0.0);
 	padding: 1%;
 	color: white;
 	float: left;
 	margin-right: 5%;
-	margin-top: 15%;
+	margin-top: 3%;
 	text-align: center;
 }
 
-.skills{
-	width: 15%;
-	height: 200px;
-	background: rgba(0,0,0,0.0);
-	padding: 1%;
-	color: white;
-	float: left;
-	margin-right: 5%;
-	margin-left: 10.5%;
-	margin-top: 15%;
-	text-align: center;
+.projects:hover{
+	background: rgba(0,0,0,0.5);
 }
 
 .pic{
@@ -73,7 +97,7 @@ p{
 
 .proj_icon{
 	padding: 5%;
-	font-size: 550%;
+	font-size: 250%;
 }
 
 .proj_icon a{
@@ -82,7 +106,7 @@ p{
 
 .about_icon{
 	padding: 5%;
-	font-size: 550%;
+	font-size: 250%;
 }
 
 .about_icon a{
@@ -98,12 +122,5 @@ p{
 	color: white;
 }
 
-.footer{
-	color: white;
-	text-align: center;
-	position: absolute;
-	bottom:0%;
-	margin-left: 40%
-	
-}
+
 	
